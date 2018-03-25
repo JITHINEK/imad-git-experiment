@@ -1,6 +1,7 @@
 function aBigfunction(){
 console.log('Writing a lot of code.');
 console.log('new features');
+console.log('new featuresCompleted');
 }
 
 function something(){
